@@ -3,7 +3,7 @@
 <img align="right" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF">
 
 
-- 🔭 I’m currently working on **C# Projects**
+- 🔭 I’m currently working on **Various C# Projects**
 
 - 🌱 I’m currently learning **Database connections**
 
