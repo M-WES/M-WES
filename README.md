@@ -1,4 +1,4 @@
-<h1 align="center">Hi!, I'm Mika</h1>
+<h1 align="center">Hi! I'm Mika</h1>
 <h3 align="center">A student at the Nova College in Hoofddorp</h3>
 <img align="right" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF">
 
