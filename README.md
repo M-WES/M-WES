@@ -3,9 +3,9 @@
 <img align="right" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF">
 
 
-- 🔭 I’m currently working on **The final project of school**
+- 🔭 I’m currently working on **A clocker project**
 
-- 🌱 I’m currently learning **how to make a reservation system**
+- 🌱 I’m currently learning **how to work with an API**
 
 - 📫 How to reach me **Mikawesseling123@gmail.com**
 
