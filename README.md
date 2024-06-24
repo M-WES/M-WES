@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **A clocker project**
 
-- 🌱 I’m currently learning **Working with XML data receiving from an API**
+- 🌱 I’m currently learning **Using XML data from an API**
 
 - 📫 How to reach me **Mikawesseling123@gmail.com**
 
